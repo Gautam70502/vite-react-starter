@@ -12,7 +12,7 @@ function App() {
           <br />
           Sass + Emotion + Tailwind
           <br />
-          Jest + Testing Library
+          Jest + Testing Library + S3 + Cloud Front
         </p>
       </header>
     </div>
